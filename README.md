@@ -21,9 +21,9 @@ I'm currently a final-year Computer Engineering student in Universidad de Zarago
 
 ## Connect with me 🌠
 <a href="https://www.linkedin.com/in/jos%C3%A9-miguel-florent%C3%ADn-domingo-397532294/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="hridoy.the.hazard10" height="30" width="40" /></a>
-<a href="" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hridoy.the.hazard10" height="30" width="40" /></a>
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
+<a href="josemifd20@gmail.com" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="30" width="40" /></a>
 
 
 <p align="center">
